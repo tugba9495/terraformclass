@@ -1,0 +1,13 @@
+{
+    "Version": "2012-10-17",
+    "Id": "AdminPolicy",
+    "Statement": [
+        {
+      "Sid": "AllowFullAccess",
+      "Principal": "*",
+      "Effect": "Allow",
+      "Action": "*",
+      "Resource": "*"
+    }
+  ]
+}

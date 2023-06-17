@@ -1,0 +1,8 @@
+variable "
+" {
+  default = ""
+}
+
+variable """ {
+  default = ""
+}
